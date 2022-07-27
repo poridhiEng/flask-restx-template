@@ -32,7 +32,7 @@ You can visit [http://127.0.0.1:5000/docs](http://127.0.0.1:5000/docs) to check 
 
 step1: Activate your venv
 
-step2: export FLASK_APP=src/__init__.py
+step2: `export FLASK_APP=src/__init__.py`
 
 step3: 
 ```bash
